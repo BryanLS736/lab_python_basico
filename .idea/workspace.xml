@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0939f5d-ed6b-4f35-b081-a39b20cb9729" name="Changes" comment="" />
+    <list default="true" id="f0939f5d-ed6b-4f35-b081-a39b20cb9729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 3/Test_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +47,7 @@
     "Python.Test_11.executor": "Run",
     "Python.Test_12.executor": "Run",
     "Python.Test_2.executor": "Run",
+    "Python.Test_21.executor": "Run",
     "Python.Test_3.executor": "Run",
     "Python.Test_4.executor": "Run",
     "Python.Test_5.executor": "Run",
@@ -56,8 +68,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Test_12_intervencion">
-    <configuration name="Test_10_potencia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Test_21">
+    <configuration name="Test_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,12 +78,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Developer\Python\Clase 2\Test_10_potencia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clase 3/Test_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_11_div_entero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Developer\Python\Clase 2\Test_11_div_entero.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clase 3/Test_21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_12_intervencion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,12 +124,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Developer\Python\Clase 2\Test_12_intervencion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clase 3/Test_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_8_division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Developer\Python\Clase 2\Test_8_division.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clase 3/Test_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_9_modulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,12 +170,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Clase 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Developer\Python\Clase 2\Test_9_modulo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Clase 3/Test_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test_12_intervencion" />
-        <item itemvalue="Python.Test_11_div_entero" />
-        <item itemvalue="Python.Test_10_potencia" />
-        <item itemvalue="Python.Test_9_modulo" />
-        <item itemvalue="Python.Test_8_division" />
+        <item itemvalue="Python.Test_21" />
+        <item itemvalue="Python.Test_12" />
+        <item itemvalue="Python.Test_6" />
+        <item itemvalue="Python.Test_4" />
+        <item itemvalue="Python.Test_3" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +243,10 @@
       <workItem from="1724538074213" duration="385000" />
       <workItem from="1724596294999" duration="3049000" />
       <workItem from="1724599538701" duration="13100000" />
+      <workItem from="1724794113130" duration="2601000" />
+      <workItem from="1725208864503" duration="1926000" />
+      <workItem from="1725210888211" duration="4126000" />
+      <workItem from="1725228938753" duration="2135000" />
     </task>
     <servers />
   </component>
@@ -251,16 +267,17 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1724520730694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Test_10.coverage" NAME="Test_10 Coverage Results" MODIFIED="1724605411780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
-    <SUITE FILE_PATH="coverage/Python$Test_6.coverage" NAME="Test_6 Coverage Results" MODIFIED="1724603939393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
     <SUITE FILE_PATH="coverage/Python$Test_7.coverage" NAME="Test_7 Coverage Results" MODIFIED="1724604242538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
-    <SUITE FILE_PATH="coverage/Python$Test_3.coverage" NAME="Test_3 Coverage Results" MODIFIED="1724601785224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
+    <SUITE FILE_PATH="coverage/Python$Test_6.coverage" NAME="Test_6 Coverage Results" MODIFIED="1725211277293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 3" />
+    <SUITE FILE_PATH="coverage/Python$Test_3.coverage" NAME="Test_3 Coverage Results" MODIFIED="1725210469440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 3" />
     <SUITE FILE_PATH="coverage/Python$Test_5.coverage" NAME="Test_5 Coverage Results" MODIFIED="1724603318700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
-    <SUITE FILE_PATH="coverage/Python$Test_2.coverage" NAME="Test_2 Coverage Results" MODIFIED="1724601148357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
+    <SUITE FILE_PATH="coverage/Python$Test_2.coverage" NAME="Test_2 Coverage Results" MODIFIED="1725210006404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 3" />
     <SUITE FILE_PATH="coverage/Python$Test_8.coverage" NAME="Test_8 Coverage Results" MODIFIED="1724604921599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
-    <SUITE FILE_PATH="coverage/Python$Test_12.coverage" NAME="Test_12 Coverage Results" MODIFIED="1724606208437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
-    <SUITE FILE_PATH="coverage/Python$Test_4.coverage" NAME="Test_4 Coverage Results" MODIFIED="1724602887702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
+    <SUITE FILE_PATH="coverage/Python$Test_12.coverage" NAME="Test_12 Coverage Results" MODIFIED="1725213333781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 3" />
+    <SUITE FILE_PATH="coverage/Python$Test_21.coverage" NAME="Test_21 Coverage Results" MODIFIED="1725230647387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 3" />
     <SUITE FILE_PATH="coverage/Python$Test_9.coverage" NAME="Test_9 Coverage Results" MODIFIED="1724605151847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
+    <SUITE FILE_PATH="coverage/Python$Test_4.coverage" NAME="Test_4 Coverage Results" MODIFIED="1725210654968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 3" />
     <SUITE FILE_PATH="coverage/Python$Test_11.coverage" NAME="Test_11 Coverage Results" MODIFIED="1724605547934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 2" />
-    <SUITE FILE_PATH="coverage/Python$Test_1.coverage" NAME="Test_1 Coverage Results" MODIFIED="1724599700274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 1" />
+    <SUITE FILE_PATH="coverage/Python$Test_1.coverage" NAME="Test_1 Coverage Results" MODIFIED="1725209527003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Clase 3" />
   </component>
 </project>
